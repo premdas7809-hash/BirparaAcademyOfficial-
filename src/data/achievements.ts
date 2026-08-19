@@ -11,7 +11,7 @@ export const ACHIEVEMENTS: Achievement[] = [
     id: "1",
     year: "2023",
     title: "[Placeholder] District Level Football Champions",
-    description: "The senior boys football team secured the first position in the inter-school district championship.",
+    description: "The senior boys football team secured the first position in the inter-school district championship with 7 goals.",
     category: "Sports",
   },
   {
