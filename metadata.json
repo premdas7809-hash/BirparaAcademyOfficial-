@@ -1,0 +1,6 @@
+{
+  "name": "Birpara Academy",
+  "description": "A premium, modern school website for Birpara Academy featuring smooth interactions and a beautiful responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
