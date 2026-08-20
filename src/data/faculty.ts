@@ -13,7 +13,7 @@ export const FACULTY: FacultyMember[] = [
     name: "[Placeholder Principal Name]",
     designation: "Principal",
     department: "Administration",
-    bio: "With over 20 years of experience in education, [Name] leads Birpara Academy with a vision of holistic development and academic excellence.",
+    bio: "With over 10 years of experience in education, [Name] leads Birpara Academy with a vision of holistic development and academic excellence.",
     imageUrl: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=400",
   },
   {
